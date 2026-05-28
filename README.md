@@ -1,9 +1,11 @@
 ### <h1 align="center"> :computer: Web Site Portfolio :computer:</h1>
 
 <p align="center">
- <a href="https://ibruninhoodev.netlify.app/">Clique Aqui para ir ao Site</a><br/>
+ <a href="https://ibrunoodev.netlify.app/">Clique Aqui para ir ao Site</a><br/>
 </p>
-<img width="1365" height="597" alt="image" src="https://github.com/user-attachments/assets/dd5432f8-33b7-4be9-9cfe-5f307b8867f7" />
+
+<img width="1364" height="600" alt="image" src="https://github.com/user-attachments/assets/ea94b0ae-169b-4bde-b946-47c2ad503428" />
+
 
 #
 Este é um projeto de portfólio profissional desenvolvido para o desenvolvedor front-end **Bruno Henrique**. O objetivo foi criar uma interface moderna, minimalista e altamente performática utilizando apenas tecnologias puras (Vanilla), seguindo os melhores padrões de mercado.

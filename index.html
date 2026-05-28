@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IBrunooDev | Front-End</title>
+
+    <!-- Icone da aba do navegador -->
+    <link rel="icon" type="image/x-icon" href="src/img/Icon-BrunoH.png" />
+
+    <!-- Descrição da página -->
+    <meta
+      name="description"
+      content="Portfólio de Bruno Henrique, desenvolvedor front-end especializado em criar interfaces modernas e funcionais."
+    />
+
+    <!-- CSS Global -->
+    <link rel="stylesheet" href="src/css/root.css" />
+
+    <!-- CSS da Página -->
+    <link rel="stylesheet" href="src/css/index.css" />
+
+    <!-- Fontes (Exemplo: Inter) -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <!-- Navegação -->
+    <header class="main-header">
+      <nav class="container">
+        <div class="logo">
+          <a href="index.html">Bruno Henrique<span>.dev</span></a>
+        </div>
+
+        <ul class="nav-links">
+          <li><a href="index.html" class="active">Início</a></li>
+          <li><a href="sobre.html">Sobre</a></li>
+          <li><a href="carreira.html">Carreira</a></li>
+          <li><a href="projetos.html">Projetos</a></li>
+          <li><a href="contato.html">Contato</a></li>
+        </ul>
+
+        <button class="menu-toggle" aria-label="Abrir Menu">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </button>
+      </nav>
+    </header>
+
+    <!-- Seção Hero -->
+    <main>
+      <section class="hero container">
+        <div class="hero-content reveal">
+          <h1 class="hero-name">Bruno Henrique</h1>
+          <h2 class="hero-title">Desenvolvedor Front-End</h2>
+          <p class="hero-text">
+            Sou desenvolvedor front-end em transição de carreira, focado em
+            criar interfaces modernas, bem estruturadas e com design
+            profissional.
+          </p>
+
+          <div class="hero-buttons">
+            <a href="contato.html" class="btn btn-primary">Vamos conversar</a>
+            <a
+              href="src/docs/(CV) - Front End Bruno.pdf"
+              target="_blank"
+              class="btn btn-secondary"
+              id="download-cv"
+              >Baixar currículo</a
+            >
+          </div>
+        </div>
+
+        <div class="hero-image-container reveal">
+          <div class="hero-image">
+            <!-- Substituir por uma foto real depois -->
+            <img
+              src="src/img/Icon-BrunoH-V2.png"
+              alt="Foto de Bruno Henrique"
+              style="cursor: pointer"
+            />
+          </div>
+        </div>
+      </section>
+
+      <!-- Seção Skills -->
+      <section class="skills container">
+        <div class="section-header reveal">
+          <h2 class="section-title">Minhas Skills</h2>
+          <div class="title-underline"></div>
+        </div>
+        <!-- Devicon (ícones) -->
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+        />
+        <div class="skills-grid">
+          <div class="skill-card">
+            <i class="devicon-html5-plain colored"></i>
+            <span>HTML5</span>
+          </div>
+
+          <div class="skill-card">
+            <i class="devicon-css3-plain colored"></i>
+            <span>CSS3</span>
+          </div>
+
+          <div class="skill-card">
+            <i class="devicon-javascript-plain colored"></i>
+            <span>JavaScript</span>
+          </div>
+
+          <div class="skill-card">
+            <i class="devicon-typescript-plain colored"></i>
+            <span>TypeScript</span>
+          </div>
+
+          <div class="skill-card">
+            <i class="devicon-react-original colored"></i>
+            <span>React</span>
+          </div>
+
+          <div class="skill-card">
+            <i class="devicon-tailwindcss-plain colored"></i>
+            <span>TailwindCSS</span>
+          </div>
+
+          <div class="skill-card">
+            <i class="devicon-git-plain colored"></i>
+            <span>Git</span>
+          </div>
+
+          <div class="skill-card">
+            <i class="devicon-github-original"></i>
+            <span>GitHub</span>
+          </div>
+
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+      <div class="container">
+        <p>&copy; 2026 Bruno Henrique. Todos os direitos reservados.</p>
+        <div class="social-links">
+          <a href="https://www.linkedin.com/in/brunocarus/" target="_blank"
+            >LinkedIn</a
+          >
+          <a href="https://github.com/IBruninhooDev" target="_blank">GitHub</a>
+          <a href="https://www.instagram.com/____brunoo77/" target="_blank"
+            >Instagram</a
+          >
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="src/js/main.js"></script>
+  </body>
+</html>
