@@ -65,10 +65,10 @@ Demonstrar competência técnica em desenvolvimento front-end, organização de 
 ---
 - ## 🔗 Links
 
-- [GitHub](https://github.com/IBrunooDev)
+- [GitHub](https://github.com/DevIBrunoo)
 - [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
-- [Instagram](https://www.instagram.com/ibrunoodev/)
+- [Instagram](https://www.instagram.com/devibrunoo/)
 ---
 
-Desenvolvido com ❤️ por [Bruno Henrique](https://github.com/IBrunooDev) 
+Desenvolvido com ❤️ por [Bruno Henrique](https://github.com/DevIBrunoo) 
 © 2026 IBrunooDev. Todos os direitos reservados.
