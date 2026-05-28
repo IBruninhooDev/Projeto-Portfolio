@@ -4,7 +4,8 @@
  <a href="https://ibrunoodev.netlify.app/">Clique Aqui para ir ao Site</a><br/>
 </p>
 
-<img width="1364" height="600" alt="image" src="https://github.com/user-attachments/assets/ea94b0ae-169b-4bde-b946-47c2ad503428" />
+<img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/1b2305ee-acc2-4daf-add7-692a0fb88924" />
+
 
 
 #
